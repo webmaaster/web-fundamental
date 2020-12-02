@@ -1,0 +1,30 @@
+body {
+  background-color: antiquewhite;
+}
+
+.my-class {
+  background-color: crimson;
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  padding: 50px;
+  border: 15px green solid;
+  float: left;
+  border-radius: 150px;
+  box-sizing: border-box;
+
+}
+
+#clear {
+  clear: both;
+}
+#unique-class{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  padding: 50px;
+  border: 15px red solid;
+  box-sizing: border-box;
+  
+}
